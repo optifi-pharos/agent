@@ -1,7 +1,7 @@
 ## Starting
 Clone repository:
 ```bash
-  https://github.com/optiFi-manta/opti-agent.git
+  https://github.com/optifi-pharos/agent.git
 ```
 
 ## Requirements
@@ -13,7 +13,6 @@ Clone repository:
 export CDP_API_KEY_NAME="cdp-api-key-name"
 export CDP_API_KEY_PRIVATE_KEY="cdp-api-key-private-key"
 export OPENAI_API_KEY="openai-api-key"
-export NETWORK_ID="base-sepolia"
 ```
 
 ## Installation
